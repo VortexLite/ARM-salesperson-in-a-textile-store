@@ -1,0 +1,86 @@
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.exe
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.deps.json
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.runtimeconfig.json
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.runtimeconfig.dev.json
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\ref\kursova3.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.pdb
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csprojAssemblyReference.cache
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csproj.GenerateResource.cache
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.AssemblyInfoInputs.cache
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.AssemblyInfo.cs
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csproj.CopyComplete
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\ref\kursova3.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.pdb
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.genruntimeconfig.cache
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Authorization.resources
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.MainForm.resources
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Order.resources
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Properties.Resources.resources
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Category.resources
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Clients.resources
+C:\Users\Vitalii\source\repos\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Items.resources
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.Interfaces.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Vitalii\source\repos\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.exe
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.deps.json
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.runtimeconfig.json
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.runtimeconfig.dev.json
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kursova3.pdb
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.Interfaces.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.System.Drawing.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csproj.AssemblyReference.cache
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Authorization.resources
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Category.resources
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Clients.resources
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Items.resources
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.MainForm.resources
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Order.resources
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Properties.Resources.resources
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csproj.GenerateResource.cache
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.AssemblyInfoInputs.cache
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.AssemblyInfo.cs
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csproj.CoreCompileInputs.cache
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.csproj.CopyComplete
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\refint\kursova3.dll
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.pdb
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.genruntimeconfig.cache
+C:\Users\vorte\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\ref\kursova3.dll
